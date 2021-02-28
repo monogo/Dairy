@@ -1,0 +1,12 @@
+.b1{
+    background-color:red;
+    float:left;
+}
+.b2{
+    background-color:blue;
+}
+.b3{
+    background-color:yellow;
+    float:left;
+}
+/*最终效果是：brother1和brother2在第一行显示，但brother1盖住了brother2，brother3单独在第二行显示*/
